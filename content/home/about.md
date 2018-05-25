@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Urban Studies",
+    "Political Sociology",
+    "Housing",
+    "Network Analysis",
+    "Spatial Analysis",
+    "Democracy"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "M.S. Sociology"
+  institution = "University of Wisconsin - Madison"
+  year = 2016
+
+[[education.courses]]
+  course = "B.A. Sociology"
+  institution = "University of Minnesota"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jake is a PhD candidate in Sociology at the University of Wisconsin - Madison. He is currently a Dissertation Fellow with the [Institute for Research on Poverty](https://www.irp.wisc.edu/u-s-collaborative-of-poverty-centers-cpc/). He was previously a Visting Scholar at NYU's [Urban Democracy Lab](http://urbandemos.nyu.edu/), and a Research Fellow at [Participatory Budgeting Project](http://participatorybudgeting.org/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Jake is an urban and political sociologist, focused on democracy, housing, and changing cities. His dissertation examines the various causes and consequences of gentrification and displacement - and the relationships between the two.
