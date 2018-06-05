@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on H. Jacob Carlson</title>
+    <link>http://hjacobcarlson.github.io/publication/</link>
+    <description>Recent content in Publications on H. Jacob Carlson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://hjacobcarlson.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>State Phobia, Then and Now: Three Waves of Conflict over Wisconsin’s Public Sector, 1930–2013</title>
+      <link>http://hjacobcarlson.github.io/publication/state-phobia/</link>
+      <pubDate>Thu, 24 May 2018 14:40:54 -0400</pubDate>
+      
+      <guid>http://hjacobcarlson.github.io/publication/state-phobia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Employers and Model Cities?: Bangalore’s Public Sector and the Rise of IT</title>
+      <link>http://hjacobcarlson.github.io/publication/model-employers/</link>
+      <pubDate>Thu, 24 May 2018 14:33:11 -0400</pubDate>
+      
+      <guid>http://hjacobcarlson.github.io/publication/model-employers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
