@@ -29,3 +29,4 @@ image = "BedStuy.png"
 caption = "Out-displacement (purple) and in-displacement (orange) for the Bedford-Stuyvesant neighborhood"
 
 +++
+This project traces pathways of mobility for displaced New York City residents. Using network analysis of the New York City Housing and Vacancy Survey. I find that every neighborhood in NYC is both a sender and receiver of displaced people, and that some are displaced from their home, yet find ways to stay in their neighborhood.

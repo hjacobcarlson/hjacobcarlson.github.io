@@ -29,3 +29,4 @@ image = ""
 caption = ""
 
 +++
+This project examines how displacement and gentrification vary across urban contexts and over time. Using the Panel Study of Income Dynamics (PSID) I look at how displacement rates are affected by local contextual factors. With this longitudinal dataset, I additionally explore the effects of displacement on low-income households.
