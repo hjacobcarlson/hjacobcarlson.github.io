@@ -4,7 +4,7 @@ date = 2018-05-24T14:40:54-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Collins, Jane L.", "Carlson, H. Jacob"]
+authors = ["Collins, Jane L.", "H. Jacob Carlson"]
 
 # Publication type.
 # Legend:
@@ -15,7 +15,7 @@ authors = ["Collins, Jane L.", "Carlson, H. Jacob"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Social Science History"
