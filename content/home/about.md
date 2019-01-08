@@ -34,7 +34,7 @@ weight = 5
 
 # Biography
 
-Jake is a PhD candidate in Sociology at the University of Wisconsin - Madison. He is currently a Dissertation Fellow with the [Institute for Research on Poverty](https://www.irp.wisc.edu/u-s-collaborative-of-poverty-centers-cpc/). He was previously a Visiting Scholar at NYU's [Urban Democracy Lab](http://urbandemos.nyu.edu/), and a Research Fellow at [Participatory Budgeting Project](http://participatorybudgeting.org/).
+Jake is a PhD candidate in Sociology at the University of Wisconsin - Madison. He is currently a Dissertation Fellow with the [Institute for Research on Poverty](https://www.irp.wisc.edu/training/ph-d-student-research-fellowships/). He was previously a Visiting Scholar at NYU's [Urban Democracy Lab](http://urbandemos.nyu.edu/), and a Research Fellow at [Participatory Budgeting Project](http://participatorybudgeting.org/).
 
 Jake is an urban and political sociologist, focused on democracy, housing, and changing cities. His dissertation examines the various causes and consequences of gentrification and displacement - and the relationships between the two.
 
