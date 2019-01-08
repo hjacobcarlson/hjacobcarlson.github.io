@@ -22,7 +22,7 @@ publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The *participation hypothesis* suggests that the act of participating in civic activities encourages further engagement in other spheres of civic life. Testing the hypothesis that participation begets more participation is made difficult by the problem of selection bias in favor of those otherwise predisposed to participate. While the specific form of the participation outcome varies, a common measure is later voter turnout. In this paper, we examine the effect of individual involvement in participatory budgeting in New York City on subsequent voter turnout."
+abstract = "The *participation hypothesis* suggests that the act of participating in civic activities encourages further engagement in other spheres of civic life. Testing the hypothesis that participation begets more participation is made difficult by the problem of selection bias in favor of those otherwise predisposed to participate. While the specific form of the participation outcome varies, a common measure is later voter turnout. In this paper, we examine the effect of individual involvement in participatory budgeting in New York City on subsequent voter turnout. Comparing PB voters to similar individuals who were not exposed to PB, we find that engaging with participatory budgeting increased individuals’ probability of voting by an average of 7.5%. In addition, we find that these effects are greater for those who often have lower probabilities of voting – young people, lower educated and lower income voters, black voters, and people who are the minority race of their neighborhood."
 
 abstract_short = ""
 
