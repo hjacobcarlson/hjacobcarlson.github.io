@@ -1,6 +1,6 @@
 +++
-title = "Model Employers and Model Cities?: Bangalore’s Public Sector and the Rise of IT"
-date = 2018-05-24T14:33:11-04:00
+title = "Measuring Displacement: Assessing Proxies for Involuntary Residential Mobility"
+date = 2019-05-22T14:33:11-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["Carlson, H. Jacob"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Urban Geography"
+publication = "City & Community"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Bangalore is held up as a model for how cities, particularly in the global south, should develop in the globalized information age, in which entrepreneurs with new access to international capital fuel service-sector-driven development. Expanding market forces cultivate cities of skilled middle-class workers whose increased consumption generates broad developmental benefits. Now known as the “Silicon Valley of India,” Bangalore was previously the capital of India’s public sector enterprises (PSEs), which laid important groundwork for the city of today, including the IT sector. I show how, by providing access to homeownership along with high wages and benefits tied to secure employment, Bangalore’s PSEs created the foundation for the city today and its middle-class character. The skilled workforce that PSEs created helped the IT sector emerge in the city. By examining this erased history, we see the role of the state in development projects, and consider alternative models for urban change."
+abstract = "Research has repeatedly found that displacement is not more likely in gentrifying neighborhoods. Since the dependent variable – displacement – is difficult to measure, researchers resort to a variety of proxy measures for it. I classify three types of proxies: a population approach that measures compositional changes in neighborhoods over time, an individual approach that measures individual housing mobility, and a motivational approach which traces both individual mobility as well as the reasons why a household moved to determine whether that move was involuntary. I examine the prevalence of these approaches across a sample of the literature. I then test the commensurability of the proxy measures with data from New York City by comparing the rank-orderings of neighborhoods with the most and least displacement. I find widely different results across the approaches. I explain these results by examining the underlying mechanisms of displacement that are masked by the other approaches."
 
 abstract_short = ""
 
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1080/02723638.2017.1388734"
+url_pdf = "https://www.hjacobcarlson.com/files/MeasuringDisplacement.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
