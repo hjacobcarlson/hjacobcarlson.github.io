@@ -43,8 +43,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.hjacobcarlson.com/files/MeasuringDisplacement.pdf"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "/files/MeasuringDisplacement.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
