@@ -1,6 +1,6 @@
 +++
 title = "Measuring Displacement: Assessing Proxies for Involuntary Residential Mobility"
-date = 2019-05-22T14:33:11-04:00
+date = 2020-01-10T14:33:11-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = "City & Community"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Research has repeatedly found that displacement is not more likely in gentrifying neighborhoods. Since the dependent variable – displacement – is difficult to measure, researchers resort to a variety of proxy measures for it. I classify three types of proxies: a population approach that measures compositional changes in neighborhoods over time, an individual approach that measures individual housing mobility, and a motivational approach which traces both individual mobility as well as the reasons why a household moved to determine whether that move was involuntary. I examine the prevalence of these approaches across a sample of the literature. I then test the commensurability of the proxy measures with data from New York City by comparing the rank-orderings of neighborhoods with the most and least displacement. I find widely different results across the approaches. I explain these results by examining the underlying mechanisms of displacement that are masked by the other approaches."
+abstract = "Research has repeatedly found that displacement is not more likely in gentrifying neighborhoods. Since the dependent variable - displacement — is difficult to measure, researchers resort to a variety of proxy measures for it. I classify three types of proxies: a population approach that measures compositional changes in neighborhoods over time, an individual approach that measures individual housing mobility, and a motivational approach that traces both individual mobility as well as the reasons why a household moved to determine whether that move was involuntary. I examine the prevalence of these approaches across a sample of the literature. I then test the commensurability of the proxy measures with data from New York City by comparing the rank orderings of neighborhoods with the most and least displacement. I find widely different results across the approaches. I explain these results by examining the underlying mechanisms of displacement that are masked by the other approaches."
 
 abstract_short = ""
 
@@ -43,8 +43,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "/files/MeasuringDisplacement.pdf"
+url_pdf = "https://doi.org/10.1111/cico.12482"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

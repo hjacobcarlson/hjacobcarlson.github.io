@@ -54,12 +54,12 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "H. Jacob Carlson"
-  role = "PhD Candidate, Sociology"
+  name = "H. Jacob Carlson, PhD"
+  role = "Substitute Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Wisconsin-Madison, Department of Sociology", url = "https://www.ssc.wisc.edu/soc/" }, { name = "Institute for Research on Poverty", url = "https://www.irp.wisc.edu/u-s-collaborative-of-poverty-centers-cpc/" } ]
+  organizations = [ { name = "CUNY, School of Labor and Urban Studies", url = "https://slu.cuny.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
