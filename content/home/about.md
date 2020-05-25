@@ -41,7 +41,7 @@ weight = 5
 
 Jake is an urban and political sociologist, focused on democracy, housing, and changing cities. His current research examines the various causes and consequences of gentrification and displacement - and the relationships between the two.
 
-Jake was previously a Dissertation Fellow with the [Institute for Research on Poverty](https://www.irp.wisc.edu/training/ph-d-student-research-fellowships/), a Visiting Scholar at NYU's [Urban Democracy Lab](http://urbandemos.nyu.edu/), and a Research Fellow at [Participatory Budgeting Project](http://participatorybudgeting.org/). He is currently a substitute assistant professor at CUNY's School of Labor and Urban Studies.
+Jake was previously a Dissertation Fellow with the [Institute for Research on Poverty](https://www.irp.wisc.edu/training/ph-d-student-research-fellowships/), a Visiting Scholar at NYU's [Urban Democracy Lab](http://urbandemos.nyu.edu/), and a Research Fellow at [Participatory Budgeting Project](http://participatorybudgeting.org/). He is currently a substitute assistant professor at CUNY's School of Labor and Urban Studies. Starting in Fall 2020, he will be a postdoctoral scholar at the Population Studies and Training Center at Brown University.
 
  
 
