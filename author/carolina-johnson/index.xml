@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carolina Johnson | H. Jacob Carlson</title>
+    <link>https://hjacobcarlson.github.io/author/carolina-johnson/</link>
+      <atom:link href="https://hjacobcarlson.github.io/author/carolina-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carolina Johnson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Dec 2020 15:56:03 +0000</lastBuildDate>
+    <image>
+      <url>https://hjacobcarlson.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Carolina Johnson</title>
+      <link>https://hjacobcarlson.github.io/author/carolina-johnson/</link>
+    </image>
+    
+    <item>
+      <title>Testing the Participation Hypothesis: Evidence from Participatory Budgeting</title>
+      <link>https://hjacobcarlson.github.io/publication/johnson-forthcoming/</link>
+      <pubDate>Tue, 29 Dec 2020 15:56:03 +0000</pubDate>
+      <guid>https://hjacobcarlson.github.io/publication/johnson-forthcoming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
