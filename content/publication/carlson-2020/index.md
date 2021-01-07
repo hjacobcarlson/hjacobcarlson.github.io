@@ -30,7 +30,7 @@ projects: []
 publishDate: '2020-12-29T15:56:02.399192Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Research has repeatedly found that displacement is not more likely in gentrifying neighborhoods. Since the dependent variable — displacement — is difficult to measure, researchers resort to a variety of proxy measures for it. I classify three types of proxies: a population approach that measures compositional changes in neighborhoods over time, an individual approach that measures individual housing mobility, and a motivational approach that traces both individual mobility as well as the reasons why a household moved to determine whether that move was involuntary. I examine the prevalence of these approaches across a sample of the literature. I then test the commensurability of the proxy measures with data from New York City by comparing the rank orderings of neighborhoods with the most and least displacement. I find widely different results across the approaches. I explain these results by examining the underlying mechanisms of displacement that are masked by the other approaches.'
 publication: '*City & Community*'
 doi: 10.1111/cico.12482
 ---
