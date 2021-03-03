@@ -1,120 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://hjacobcarlson.github.io/publication-type/2/</loc>
-    <lastmod>2020-12-29T10:56:03-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-03T08:44:08-05:00</lastmod>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/authors/</loc>
-    <lastmod>2020-12-29T10:56:03-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-03T08:44:08-05:00</lastmod>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/author/carolina-johnson/</loc>
-    <lastmod>2020-12-29T10:56:03-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-03T08:44:08-05:00</lastmod>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/author/h.-jacob-carlson/</loc>
-    <lastmod>2020-12-29T10:56:03-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-03T08:44:08-05:00</lastmod>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/</loc>
-    <lastmod>2020-12-29T10:56:03-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-03T08:44:08-05:00</lastmod>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/publication_types/</loc>
-    <lastmod>2020-12-29T10:56:03-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-03T08:44:08-05:00</lastmod>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/publication/</loc>
-    <lastmod>2020-12-29T10:56:03-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-03T08:44:08-05:00</lastmod>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/author/sonya-reynolds/</loc>
-    <lastmod>2020-12-29T10:56:03-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hjacobcarlson.github.io/publication/johnson-forthcoming/</loc>
-    <lastmod>2020-12-29T10:56:03-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-03T08:44:08-05:00</lastmod>
+  </url><url>
+    <loc>https://hjacobcarlson.github.io/publication/johnson-2021/</loc>
+    <lastmod>2021-03-03T08:44:08-05:00</lastmod>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/project/</loc>
     <lastmod>2020-11-23T18:28:10-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/project/shda/</loc>
     <lastmod>2020-11-23T18:28:10-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/publication/carlson-2020/</loc>
     <lastmod>2020-12-29T10:56:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/publication/carlson-2020-a/</loc>
     <lastmod>2020-12-29T10:56:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/author/gianpaolo-baiocchi/</loc>
     <lastmod>2020-12-29T10:56:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/author/marnie-brady/</loc>
     <lastmod>2020-12-29T10:56:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/publication/carlson-2018-a/</loc>
     <lastmod>2020-12-29T10:56:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/publication/carlson-2018/</loc>
     <lastmod>2020-12-29T10:56:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/author/jane-l.-collins/</loc>
     <lastmod>2020-12-29T10:56:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/publication/collins-2018/</loc>
     <lastmod>2020-12-29T10:56:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/author/h.-jacob-carlson/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hjacobcarlson.github.io/tags/</loc>
   </url>
-  
 </urlset>
